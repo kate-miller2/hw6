@@ -5,3 +5,7 @@ tidyr
 purrr
 broom
 magrittr
+corrplot
+carData
+car
+ggplot2
